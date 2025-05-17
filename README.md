@@ -1,6 +1,6 @@
-# LangGraph-RecAgent
+# NexusMind
 
-An intelligent recommendation system powered by LangChain and LangGraph that uses reactive programming patterns to provide personalized recommendations through AI agents.
+An intelligent recommendation system where AI agents work together like a neural network, learning and adapting to user preferences in real-time. Built with LangChain and LangGraph to create a system that remembers past interactions and understands context, making each recommendation more personalized than the last.
 
 ## 🌟 Features
 
@@ -22,8 +22,8 @@ An intelligent recommendation system powered by LangChain and LangGraph that use
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MahammadRafi06/LangGraph-RecAgent.git
-cd LangGraph-RecAgent
+git clone https://github.com/MahammadRafi06/NexusMind.git
+cd NexusMind
 ```
 
 2. Create and activate a virtual environment:
