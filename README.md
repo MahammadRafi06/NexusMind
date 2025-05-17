@@ -1,6 +1,6 @@
-# AI ReAct Agents for Recommendation Systems
+# LangGraph-RecAgent
 
-A sophisticated recommendation system powered by LangChain and AI agents that uses reactive programming patterns to provide personalized recommendations.
+An intelligent recommendation system powered by LangChain and LangGraph that uses reactive programming patterns to provide personalized recommendations through AI agents.
 
 ## 🌟 Features
 
@@ -22,8 +22,8 @@ A sophisticated recommendation system powered by LangChain and AI agents that us
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI-ReAct-Agents-for-Recomendation-Systems.git
-cd AI-ReAct-Agents-for-Recomendation-Systems
+git clone https://github.com/MahammadRafi06/LangGraph-RecAgent.git
+cd LangGraph-RecAgent
 ```
 
 2. Create and activate a virtual environment:
